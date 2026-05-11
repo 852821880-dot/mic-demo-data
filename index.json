@@ -1,78 +1,292 @@
 {
   "updated": "2026-05-11",
-  "total_queries": 12,
+  "total_queries": 57,
+  "total_products": 1788,
   "queries": [
+    {
+      "keyword": "air fryer",
+      "slug": "air-fryer",
+      "count": 36
+    },
+    {
+      "keyword": "baby stroller",
+      "slug": "baby-stroller",
+      "count": 36
+    },
+    {
+      "keyword": "backpack",
+      "slug": "backpack",
+      "count": 36
+    },
+    {
+      "keyword": "badminton racket",
+      "slug": "badminton-racket",
+      "count": 36
+    },
+    {
+      "keyword": "basketball",
+      "slug": "basketball",
+      "count": 36
+    },
     {
       "keyword": "bearing",
       "slug": "bearing",
-      "count": 11,
-      "first_product_name": "SKF/FAG/Timken/Koyo/NTN/NSK/Bdl Bearings/Ball Bearing/Roller Bearing/Needle Roll"
+      "count": 11
+    },
+    {
+      "keyword": "bicycle",
+      "slug": "bicycle",
+      "count": 36
+    },
+    {
+      "keyword": "blender",
+      "slug": "blender",
+      "count": 36
+    },
+    {
+      "keyword": "bluetooth speaker",
+      "slug": "bluetooth-speaker",
+      "count": 36
+    },
+    {
+      "keyword": "camera",
+      "slug": "camera",
+      "count": 36
+    },
+    {
+      "keyword": "ceiling light",
+      "slug": "ceiling-light",
+      "count": 36
+    },
+    {
+      "keyword": "ceramic mug",
+      "slug": "ceramic-mug",
+      "count": 36
+    },
+    {
+      "keyword": "ceramic tile",
+      "slug": "ceramic-tile",
+      "count": 36
+    },
+    {
+      "keyword": "coffee machine",
+      "slug": "coffee-machine",
+      "count": 36
     },
     {
       "keyword": "cotton fabric",
       "slug": "cotton-fabric",
-      "count": 14,
-      "first_product_name": "Yachitex Professional Factory Vibrant Exquisite Cotton Print High Quality Fabric"
+      "count": 14
     },
     {
       "keyword": "dining table",
       "slug": "dining-table",
-      "count": 15,
-      "first_product_name": "Industrial-Style Wholesale Hot-Selling Luxury Restaurant and Ceramic Sintered St"
+      "count": 15
+    },
+    {
+      "keyword": "drone",
+      "slug": "drone",
+      "count": 36
+    },
+    {
+      "keyword": "electric scooter",
+      "slug": "electric-scooter",
+      "count": 36
+    },
+    {
+      "keyword": "fan",
+      "slug": "fan",
+      "count": 36
+    },
+    {
+      "keyword": "fishing rod",
+      "slug": "fishing-rod",
+      "count": 36
+    },
+    {
+      "keyword": "fitness tracker",
+      "slug": "fitness-tracker",
+      "count": 36
+    },
+    {
+      "keyword": "football",
+      "slug": "football",
+      "count": 36
+    },
+    {
+      "keyword": "glass bottle",
+      "slug": "glass-bottle",
+      "count": 36
+    },
+    {
+      "keyword": "hair dryer",
+      "slug": "hair-dryer",
+      "count": 36
+    },
+    {
+      "keyword": "hand bag",
+      "slug": "hand-bag",
+      "count": 36
+    },
+    {
+      "keyword": "headphone",
+      "slug": "headphone",
+      "count": 36
+    },
+    {
+      "keyword": "industrial valve",
+      "slug": "industrial-valve",
+      "count": 36
     },
     {
       "keyword": "kitchen cabinet",
       "slug": "kitchen-cabinet",
-      "count": 9,
-      "first_product_name": "AIS Australia Philippines Canada Modular Wood Kitchen Furniture Modern Design Ho"
+      "count": 9
     },
     {
       "keyword": "led light",
       "slug": "led-light",
-      "count": 15,
-      "first_product_name": "Aluminum Profile LED Linear Light Suspended Linear Profile Light"
+      "count": 15
     },
     {
       "keyword": "lithium battery",
       "slug": "lithium-battery",
-      "count": 15,
-      "first_product_name": "China 100kwh 112kwh 150kwh Lead Acid 51.2V Rechargeable Solar Battery 200ah 280a"
+      "count": 15
     },
     {
       "keyword": "mattress",
       "slug": "mattress",
-      "count": 15,
-      "first_product_name": "5 Star Luxury Hotel Matelas Bedroom Home Furniture Soft Mattress Queen King Size"
+      "count": 15
+    },
+    {
+      "keyword": "men suit",
+      "slug": "men-suit",
+      "count": 36
     },
     {
       "keyword": "office chair",
       "slug": "office-chair",
-      "count": 15,
-      "first_product_name": "Yolanda Furniture Wholesale Custom Ergonomic Executive Office Chair Adjustable H"
+      "count": 15
     },
     {
       "keyword": "packaging machine",
       "slug": "packaging-machine",
-      "count": 15,
-      "first_product_name": "Multi-Function Vffs Vertical Automatic Food Packing (Packaging) Machine for Rice"
+      "count": 15
+    },
+    {
+      "keyword": "paper bag",
+      "slug": "paper-bag",
+      "count": 36
+    },
+    {
+      "keyword": "phone case",
+      "slug": "phone-case",
+      "count": 36
+    },
+    {
+      "keyword": "plush toy",
+      "slug": "plush-toy",
+      "count": 36
+    },
+    {
+      "keyword": "power bank",
+      "slug": "power-bank",
+      "count": 36
+    },
+    {
+      "keyword": "projector",
+      "slug": "projector",
+      "count": 36
+    },
+    {
+      "keyword": "rubber gasket",
+      "slug": "rubber-gasket",
+      "count": 36
+    },
+    {
+      "keyword": "ski helmet",
+      "slug": "ski-helmet",
+      "count": 36
+    },
+    {
+      "keyword": "smart lock",
+      "slug": "smart-lock",
+      "count": 36
+    },
+    {
+      "keyword": "smart watch",
+      "slug": "smart-watch",
+      "count": 36
+    },
+    {
+      "keyword": "sneaker",
+      "slug": "sneaker",
+      "count": 36
     },
     {
       "keyword": "sofa",
       "slug": "sofa",
-      "count": 15,
-      "first_product_name": "Foshan Factory Wholesale Modern Luxury Frameless Sponge Corner Sectional Sofa Se"
+      "count": 15
     },
     {
       "keyword": "solar panel",
       "slug": "solar-panel",
-      "count": 15,
-      "first_product_name": "ISO Approved 25 Years Jingsun Carton Box 690W 700W 710W Solar Price Panel"
+      "count": 15
+    },
+    {
+      "keyword": "stainless steel",
+      "slug": "stainless-steel",
+      "count": 36
+    },
+    {
+      "keyword": "sunglasses",
+      "slug": "sunglasses",
+      "count": 36
     },
     {
       "keyword": "t-shirt",
       "slug": "t-shirt",
-      "count": 15,
-      "first_product_name": "Plain Blank New Oversized 230g Combed Cotton T Shirt Unisex Quick Dry Wholesale "
+      "count": 15
+    },
+    {
+      "keyword": "tent",
+      "slug": "tent",
+      "count": 36
+    },
+    {
+      "keyword": "treadmill",
+      "slug": "treadmill",
+      "count": 36
+    },
+    {
+      "keyword": "umbrella",
+      "slug": "umbrella",
+      "count": 36
+    },
+    {
+      "keyword": "vacuum cleaner",
+      "slug": "vacuum-cleaner",
+      "count": 36
+    },
+    {
+      "keyword": "wireless charger",
+      "slug": "wireless-charger",
+      "count": 36
+    },
+    {
+      "keyword": "women dress",
+      "slug": "women-dress",
+      "count": 35
+    },
+    {
+      "keyword": "wood flooring",
+      "slug": "wood-flooring",
+      "count": 36
+    },
+    {
+      "keyword": "yoga mat",
+      "slug": "yoga-mat",
+      "count": 36
     }
   ]
 }
